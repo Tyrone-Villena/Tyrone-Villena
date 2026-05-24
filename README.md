@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am a computer engineering graduate with skills in full-stack development (C++, Python, Java, Django, HTML, CSS, React.js) and experience in 3D modeling, digital art, and hardware projects. Passionate about learning new technologies and problem-solving, I thrive in collaborative environments and excel at delivering clear, structured presentations.
 
+(Portfolio list)
+https://github.com/Tyrone-Villena/Tyrone-Villena/blob/main/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tyrone-villena-81804a386/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32761764/tyrone-villena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trichardvillena@gmail.com) 
