@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a computer engineering graduate with skills in full-stack development (C++, Python, Java, Django, HTML, CSS, React.js) and experience in 3D modeling, digital art, and hardware projects. Passionate about learning new technologies and problem-solving, I thrive in collaborative environments and excel at delivering clear, structured presentations.
 
-(Portfolio list)
+(Portfolio list)                                                                                                                                                                                                                                                                        
 https://github.com/Tyrone-Villena/Tyrone-Villena/blob/main/
 
 
